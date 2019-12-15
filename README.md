@@ -1,0 +1,1 @@
+Color Hit is a browser game created using HTML / CSS / JavaScript
